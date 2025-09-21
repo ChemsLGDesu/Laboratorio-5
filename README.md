@@ -1,2 +1,2 @@
 # Laboratorio-5
-GitHub 
+Assets- Scripts- Slime, GameManager 
